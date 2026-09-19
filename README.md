@@ -111,9 +111,6 @@ contact: maheshrajlamsal01@gmail.com
 <div align="center">
 <img src="https://raw.githubusercontent.com/mahesh-179/mahesh-179/output/github-contribution-grid-snake.svg" width="100%" onerror="this.style.display='none'"/>
 
-<sub>this shows your commit graph as an animated snake 🐍 — it only appears once you add the <code>.github/workflows/snake.yml</code> file (included as a separate file) and run it once from the Actions tab. Until then this row will just look empty on GitHub, that's expected, not a bug.</sub>
-</div>
-
 ![-](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 💌 find me
